@@ -1,6 +1,6 @@
 ### Hi, I'am Burak Akbal! 👋
 
-- 🔭 I’m currently working on Monster Beast Webgl Game and converting a board game into mobile platform in Unity3D. 
+- 🔭 I’m currently working on Monster Beast Webgl Game and converting a board game in mobile with Unity3D. 
 - 🌱 I’m currently learning Blockchain for games.
 - 👯 I’m looking to collaborate on Upwork Freelancer.
 - 🤔 I’m looking for help with agile and scrum methodologies.

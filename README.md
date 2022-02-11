@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Upwork Freelancer.
 - 🤔 I’m looking for help with agile and scrum methodologies.
 - 💬 Ask me about C# and Unity3D.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akbalburak/) [Youtube](https://youtube.com/playlist?list=PLvrcWmRRk4xHYVoDoHPOrPpKa-dFBedIo) [Gmail](akbalburak2@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akbalburak/) [Youtube](https://youtube.com/playlist?list=PLvrcWmRRk4xHYVoDoHPOrPpKa-dFBedIo) [Gmail](mailto:akbalburak2@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Developers should never stop their developments.
 

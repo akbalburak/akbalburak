@@ -1,8 +1,8 @@
 ### Hi, I'am Burak Akbal! 👋
 
-- 🔭 I’m currently working on Monster Beast Webgl Game and converting a board game in mobile with Unity3D. 
-- 🌱 I’m currently learning Blockchain for games.
-- 🤔 I’m looking for help with agile and scrum methodologies.
+- 🔭 I’m currently working on my personal Turn Base RPG Game with Unity3D. 
+- 🌱 I’m currently learning Zenject, Unity Localization.
+- 🤔 I’m looking for new challanges.
 - 💬 Ask me about C# and Unity3D.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akbalburak/) [Youtube](https://youtube.com/playlist?list=PLvrcWmRRk4xHYVoDoHPOrPpKa-dFBedIo) [Gmail](mailto:akbalburak2@gmail.com)
 - 😄 Pronouns: He/His
